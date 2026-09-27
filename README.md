@@ -12,3 +12,11 @@ I’m a software engineer based in Austin, Texas, and a Computer Science graduat
 - 📫 Reach me at **[naveenseedani16@gmail.com](mailto:naveenseedani16@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/naveen-seedani/)**.
 - 😄 Pronouns: He/Him
 - 🎵 Outside of coding, I’m crazy about music and love going on walks.
+
+## Featured project: NutriTwin
+
+A wellness journal for meals, movement, sleep and daily check-ins, built with Expo / React Native, TypeScript and Firebase.
+
+**[Try the interactive demo](https://nutritwin-demo.naveenseedani.chatgpt.site/)** · [Source code](https://github.com/naveenseedani21/NutriTwin) · [Engineering case study](https://github.com/naveenseedani21/NutriTwin/blob/main/docs/CASE_STUDY.md)
+
+Explore and edit a fictional day without signing in. Demo edits stay in your browser and can be reset. The main app includes time-zone-aware logging, editable history and activity calorie estimates; native tracker synchronization is gated pending verification, while personalized predictions and AI chat remain planned.
